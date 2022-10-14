@@ -1,0 +1,7 @@
+C:\Users\Constantin\Documents\ResourceCrateAndFacility\Dist\meta.json
+C:\Users\Constantin\Documents\ResourceCrateAndFacility\Dist\ResourceCrateAndFacility.dll
+C:\Users\Constantin\Documents\ResourceCrateAndFacility\Dist\ResourceCrateAndFacility.pdb
+C:\Users\Constantin\Documents\ResourceCrateAndFacility\ResourceCrateAndFacility\obj\Debug\ResourceCrateAndFacility.csproj.AssemblyReference.cache
+C:\Users\Constantin\Documents\ResourceCrateAndFacility\ResourceCrateAndFacility\obj\Debug\ResourceCrateAndFacility.csproj.CoreCompileInputs.cache
+C:\Users\Constantin\Documents\ResourceCrateAndFacility\ResourceCrateAndFacility\obj\Debug\ResourceCrateAndFacility.dll
+C:\Users\Constantin\Documents\ResourceCrateAndFacility\ResourceCrateAndFacility\obj\Debug\ResourceCrateAndFacility.pdb

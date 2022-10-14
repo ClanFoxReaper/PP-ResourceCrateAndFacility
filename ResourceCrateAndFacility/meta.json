@@ -1,0 +1,24 @@
+{
+  "ID": "com.example.rcf",
+  "AssemblyName": "ResourceCrateAndFacility.dll",
+  "Author": [
+    {
+      "Key": "English",
+      "Value": "ClanFoxReaper"
+    }
+  ],
+  "Version": "1.0",
+  "Name": [
+    {
+      "Key": "English",
+      "Value": "ResourceCrate And Facility"
+    }
+  ],
+  "Description": [
+    {
+      "Key": "English",
+      "Value": "Resource Crate Reward And Facility (Buff Or Nerf)"
+    }
+  ],
+  "Dependencies": []
+}

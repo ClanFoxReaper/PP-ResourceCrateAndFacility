@@ -49,33 +49,20 @@ namespace ResourceCrateAndFacility
 			/// Apply any general game modifications.
 			DefRepository Repo = GameUtl.GameComponent<DefRepository>();
 
-			ResourceCrateDef x7materialRC = Repo.GetAllDefs<ResourceCrateDef>().FirstOrDefault(a => a.name.Equals("Materials_ResourceCrateDef"));
-
-			x7materialRC.ResourceAmount = 700;
-
-			ResourceCrateDef x7techRC = Repo.GetAllDefs<ResourceCrateDef>().FirstOrDefault(a => a.name.Equals("Tech_ResourceCrateDef"));
-
-			x7techRC.ResourceAmount = 700;
-
-			ResourceCrateDef x7supplieRC = Repo.GetAllDefs<ResourceCrateDef>().FirstOrDefault(a => a.name.Equals("Supplies_ResourceCrateDef"));
-
-			x7supplieRC.ResourceAmount = 700;
-
-			ItemDef x7material = Repo.GetAllDefs<ItemDef>().FirstOrDefault(a => a.name.Equals("MaterialsPack_ItemDef"));
-
-			x7material.ManufactureMaterials = 700;
-
-			ItemDef x7tech = Repo.GetAllDefs<ItemDef>().FirstOrDefault(a => a.name.Equals("TechPack_ItemDef"));
-
-			x7tech.ManufactureTech = 700;
-
+			//ResourceCrateDef x7materialRC = Repo.GetAllDefs<ResourceCrateDef>().FirstOrDefault(a => a.name.Equals("Materials_ResourceCrateDef"));
+			//x7materialRC.ResourceAmount = 700;
+			//ResourceCrateDef x7techRC = Repo.GetAllDefs<ResourceCrateDef>().FirstOrDefault(a => a.name.Equals("Tech_ResourceCrateDef"));
+			//x7techRC.ResourceAmount = 700;
+			//ResourceCrateDef x7supplieRC = Repo.GetAllDefs<ResourceCrateDef>().FirstOrDefault(a => a.name.Equals("Supplies_ResourceCrateDef"));
+			//x7supplieRC.ResourceAmount = 700;
+			//ItemDef x7material = Repo.GetAllDefs<ItemDef>().FirstOrDefault(a => a.name.Equals("MaterialsPack_ItemDef"));
+			//x7material.ManufactureMaterials = 700;
+			//ItemDef x7tech = Repo.GetAllDefs<ItemDef>().FirstOrDefault(a => a.name.Equals("TechPack_ItemDef"));
+			//x7tech.ManufactureTech = 700;
 			//ItemDef x7food = Repo.GetAllDefs<ItemDef>().FirstOrDefault(a => a.name.Equals("FoodPack_ItemDef"));
-
             //x7food. = 700;
-
-			ItemDef x7mutagen = Repo.GetAllDefs<ItemDef>().FirstOrDefault(a => a.name.Equals("MutagenPack_ItemDef"));
-
-			x7mutagen.ManufactureMutagen = 700;
+			//ItemDef x7mutagen = Repo.GetAllDefs<ItemDef>().FirstOrDefault(a => a.name.Equals("MutagenPack_ItemDef"));
+			//x7mutagen.ManufactureMutagen = 700;
 
 			HealFacilityComponentDef Heal_x7 = Repo.GetAllDefs<HealFacilityComponentDef>().FirstOrDefault(a => a.name.Equals("E_Heal [MedicalBay_PhoenixFacilityDef]"));
 			Heal_x7.BaseHeal = 28;
